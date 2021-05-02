@@ -51,7 +51,7 @@ html, video, body{
 
 .video {
   display: none;
-  width:120%;
+  /* width:50%; */
 }
 
 .top-video{
